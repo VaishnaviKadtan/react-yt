@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+/* .box{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+}
+.page1{
+    background-color: #111;
+    height: 100vh;
+
+}
+.page2{
+    background-color: #222;
+    height: 100vh;
+}
+.page3{
+    background-color: #333;
+    height: 100vh;
+} */
